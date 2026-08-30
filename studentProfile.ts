@@ -15,5 +15,5 @@ const formalGreeting = (name: string, formal: boolean): string => {
     return `Hi ${name}!`;
 };
 
-console.log(formalGreeting(studentName, false));
 console.log(formalGreeting(studentName, true));
+console.log(formalGreeting(studentName, false));
