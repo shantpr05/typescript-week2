@@ -1,4 +1,4 @@
-##TypeScript Homework
+### TypeScript Homework
 Practice Based on Class Code
 Complete each task in a .ts file (create a repo and branch it to: "week2 and branch again to
 typescript). Choose at least one assignment per skill.
