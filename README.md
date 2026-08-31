@@ -241,7 +241,7 @@ typescript-week2/
 │
 ├── README.md
 ├── .gitignore
-├── studentProfile.ts
+├── skill1.ts
 ├── skill2.ts
 ├── skill3.ts
 └── skill4.ts
@@ -272,13 +272,13 @@ The completed assignment is submitted from the `typescript` branch.
 Compile a TypeScript file:
 
 ```bash
-tsc studentProfile.ts
+tsc skill1.ts
 ```
 
 Run the generated JavaScript:
 
 ```bash
-node studentProfile.js
+node skill1.js
 ```
 
 For the other files:
